@@ -1,0 +1,12 @@
+*Admin
+	-id
+	-username
+	-password
+*student
+	-id
+	-rollno
+	-name
+	-city
+	-parents contacts
+	-standers
+	-images

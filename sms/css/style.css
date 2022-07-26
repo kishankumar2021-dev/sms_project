@@ -1,0 +1,16 @@
+.admintitle
+{
+    height:150px;
+    width:100%;
+    line-height: 150px;
+    text-align:center;
+    background:aqua;
+    background:linear-gradient(to top right, #f09, #3023AE, #0ff);
+    color:orange;
+}
+.dashboard
+{
+    background-color: hsla(303, 82%, 45%, 0.13);
+    
+
+}
